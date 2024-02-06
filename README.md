@@ -13,6 +13,6 @@
 **cover_QF**: Quality factor of the cover.\
 **attack_QF**: Quality factor of the compression.\
 **R1**: T_gamma; **R2**: T_lambda; **R3**: T_max.\
-**distortion**: Selected initial distortion, =1 for JUNIWARD, =2 for UERD.\
+**distortion**: Selected initial distortion, =1 for JUNIWARD, =2 for UERD.
 
 ### *If other essential functions are missing, please look for them in my other repositories*.
