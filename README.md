@@ -2,10 +2,10 @@
 ## Code for publication in TIFS titled “Robust Steganography for Black-box Generated Images”
 ## See our paper for details. Please ***STAR*** and ***CITE*** if you find it helpful!
 
-### To use a non-adaptive cover selection, the main file is *testRobustGISSttt.m*.\
+### To use a non-adaptive cover selection, the main file is *testRobustGISSttt.m*.
 ### To use an adaptive cover selection, the main file is *testRobustGISS.m*.
 
-### Explanation of input parameters:\
+### Explanation of input parameters:
 **pcover_dir**: Generated un-JPEG-compressed spatial images, e.g., in the format of '.pgm'.\
 **cover_dir**: The above images are compressed and used as covers.\
 **stego_dir**: Output directory of stego images.\
